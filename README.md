@@ -22,7 +22,7 @@ Supported image formats: JPEG, PNG, BMP, TIFF, and WEBP.
 Python 3.10 or newer is recommended.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shaziagul-rgb/DataPrepKit.git
 cd DataPrepKit
 python -m venv .venv
 source .venv/bin/activate
@@ -130,4 +130,3 @@ This project is intentionally lightweight. It is designed as a reusable utility 
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
-# DataPrepKit
